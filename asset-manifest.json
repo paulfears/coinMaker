@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/coinMaker/static/css/main.00395570.chunk.css",
+    "main.js": "/coinMaker/static/js/main.e7696efb.chunk.js",
+    "main.js.map": "/coinMaker/static/js/main.e7696efb.chunk.js.map",
+    "runtime-main.js": "/coinMaker/static/js/runtime-main.53ea6f2f.js",
+    "runtime-main.js.map": "/coinMaker/static/js/runtime-main.53ea6f2f.js.map",
+    "static/css/2.373bc5f8.chunk.css": "/coinMaker/static/css/2.373bc5f8.chunk.css",
+    "static/js/2.50da1130.chunk.js": "/coinMaker/static/js/2.50da1130.chunk.js",
+    "static/js/2.50da1130.chunk.js.map": "/coinMaker/static/js/2.50da1130.chunk.js.map",
+    "static/js/3.9900db10.chunk.js": "/coinMaker/static/js/3.9900db10.chunk.js",
+    "static/js/3.9900db10.chunk.js.map": "/coinMaker/static/js/3.9900db10.chunk.js.map",
+    "index.html": "/coinMaker/index.html",
+    "static/css/2.373bc5f8.chunk.css.map": "/coinMaker/static/css/2.373bc5f8.chunk.css.map",
+    "static/css/main.00395570.chunk.css.map": "/coinMaker/static/css/main.00395570.chunk.css.map",
+    "static/js/2.50da1130.chunk.js.LICENSE.txt": "/coinMaker/static/js/2.50da1130.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53ea6f2f.js",
+    "static/css/2.373bc5f8.chunk.css",
+    "static/js/2.50da1130.chunk.js",
+    "static/css/main.00395570.chunk.css",
+    "static/js/main.e7696efb.chunk.js"
+  ]
+}
